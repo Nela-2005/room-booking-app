@@ -52,22 +52,6 @@ This is a full-stack Java Spring Boot application developed during the Java cour
 
 ---
 
-## 📁 Project Structure
-
-com.e_commerce.web_commerce
-├── config # Security configuration
-├── controller # REST + MVC endpoints
-├── dto # Data Transfer Objects
-├── entity # JPA Entity Models
-├── repository # Spring Data JPA interfaces
-├── service # Business logic layer
-└── WebCommerceApplication # Main Spring Boot class
-
-pgsql
-Copy
-Edit
-
----
 
 ## 🔗 API Endpoints
 
